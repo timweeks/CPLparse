@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html>
 <head>
 <meta charset="UTF-8">
@@ -7,5 +7,6 @@
 
 <body>
     Hello cruel world.
+    Deleted comment brackets
 </body>
 </html>
